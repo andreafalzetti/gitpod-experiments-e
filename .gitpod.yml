@@ -1,6 +1,6 @@
 tasks:
   - command: npx live-server .
  
- ports:
+ports:
   - port: 8080
     onOpen: ignore

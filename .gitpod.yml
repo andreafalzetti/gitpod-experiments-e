@@ -1,6 +1,10 @@
 tasks:
   - command: npx live-server .
- 
+
+vscode:
+  extensions:
+    - redhat.java
+
 ports:
   - port: 8080
     onOpen: ignore
